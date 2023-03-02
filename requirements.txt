@@ -4,4 +4,4 @@ Pandas
 Numpy
 Matplotlib
 Seaborn
-Ploty
+Plotly
